@@ -177,278 +177,326 @@
             <!-- gallery -->
             <div class="gallery twsty inf-lit full-width">
                 <div class="row">
-                <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                     <img src="img/portfolio/mas/1.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Er.Sathymoorthy</h5>
-                                <span>Structural design</span><br>
-                                <span>Trichy</span>
-                            </div>
-                        </div>
-                    </div>
-</a>
                     <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/2.webp" class="gallery-image" >
-                            <div class="info mt-10">
-                                <h5>Mr. Chelladurai</h5>
-                                <span>Renovation, Construction, Architectural Drawings</span><br>
-                                <span>Thuraiyur</span>
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img\projects\singampuneri_mandapam\01.jpg" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>SINGAMPUNERI MANDAPAM</h5>
+                                    <span>Structural design</span><br>
+                                    <span>SINGAMPUNERI</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/3.webp" class="gallery-image" >
-                            <div class="info mt-10">
-                                <h5>Mr.Jeffrey</h5>
-                                <span>Construction, Architectural Elevation</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="project-view-civil-engineer-house.php">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img\projects\civil_engineer_house\01.jpg" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>THE CIVIL ENGINEER HOUSE</h5>
+                                    <span>Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/4.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr.Ragupathi</h5>
-                                <span>Construction, Architectural Elevation, Interior design</span><br>
-                                <span>Chennai</span>
+                    </a>
+                    <a href="project-view-bridge-bunglow.php">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img\projects\Bridge_Bungalow\04.jpg" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Bridge Bungalow</h5>
+                                    <span>Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/5.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr.Antony</h5>
-                                <span>Civil Construction, Structural design</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="project-view-justin-residence.php">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img\projects\justin_residence\01.jpg" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Dr. Justin’s Residence</h5>
+                                    <span>Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/6.webp" style="width:100%" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr.Peter</h5>
-                                <span>Civil Construction, Structural design</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/1.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Er.Sathymoorthy</h5>
+                                    <span>Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/7.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Truhomes Promoters</h5>
-                                <span>Civil Construction</span><br>
-                                <span>Thanjavur</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/2.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr. Chelladurai</h5>
+                                    <span>Renovation, Construction, Architectural Drawings</span><br>
+                                    <span>Thuraiyur</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/8.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Truhomes Promoters</h5>
-                                <span>Civil Construction, Structural design</span><br>
-                                <span>Thanjavur</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/3.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr.Jeffrey</h5>
+                                    <span>Construction, Architectural Elevation</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/9.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mrs. Asma</h5>
-                                <span>Civil Construction, Structural design</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/4.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr.Ragupathi</h5>
+                                    <span>Construction, Architectural Elevation, Interior design</span><br>
+                                    <span>Chennai</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/10.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr.Rafeek</h5>
-                                <span>Civil Construction</span><br>
-                                <span>Thanjavur</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/5.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr.Antony</h5>
+                                    <span>Civil Construction, Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/11.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mrs. Kavitha</h5>
-                                <span>Civil Construction</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/6.webp" style="width:100%" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr.Peter</h5>
+                                    <span>Civil Construction, Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/12.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr. Unoose Ayoob</h5>
-                                <span>Bhavish Architect</span><br>
-                                <span>Adithanar</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/7.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Truhomes Promoters</h5>
+                                    <span>Civil Construction</span><br>
+                                    <span>Thanjavur</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/13.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Mr. Balaji</h5>
-                                <span>Civil Construction</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/8.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Truhomes Promoters</h5>
+                                    <span>Civil Construction, Structural design</span><br>
+                                    <span>Thanjavur</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/14.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Residence</h5>
-                                <span>Gowtham Srinath Architects</span><br>
-                                <span>Theni</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/9.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mrs. Asma</h5>
+                                    <span>Civil Construction, Structural design</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/15.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Dalmia Gateway</h5>
-                                <span>Pragadeesh Architect, Studio Think</span><br>
-                                <span>Lalgudi</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/10.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr.Rafeek</h5>
+                                    <span>Civil Construction</span><br>
+                                    <span>Thanjavur</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/11.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mrs. Kavitha</h5>
+                                    <span>Civil Construction</span><br>
+                                    <span>Trichy</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/12.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr. Unoose Ayoob</h5>
+                                    <span>Bhavish Architect</span><br>
+                                    <span>Adithanar</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/13.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Mr. Balaji</h5>
+                                    <span>Civil Construction</span><br>
+                                    <span>Trichy</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/14.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Residence</h5>
+                                    <span>Gowtham Srinath Architects</span><br>
+                                    <span>Theni</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/15.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Dalmia Gateway</h5>
+                                    <span>Pragadeesh Architect, Studio Think</span><br>
+                                    <span>Lalgudi</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
 
 
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/16.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Apartment</h5>
-                                <span>Vedha Kumaran Architect</span><br>
-                                <span>Navalpattu</span>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/16.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Apartment</h5>
+                                    <span>Vedha Kumaran Architect</span><br>
+                                    <span>Navalpattu</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/17.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Dr. Justin Residence</h5>
-                                <span>Vishnu and Bhavish Architect</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/17.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Dr. Justin Residence</h5>
+                                    <span>Vishnu and Bhavish Architect</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/18.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Chandran Residence</h5>
-                                <span>Gayathri Architect, Sarah Design Scape</span><br>
-                                <span>Trichy</span>
+                    </a>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/18.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Chandran Residence</h5>
+                                    <span>Gayathri Architect, Sarah Design Scape</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
+                    </a>
 
 
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/19.webp" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Gowranga Illam</h5>
-                                <span>Karthick Architect</span><br>
-                                <span>Trichy</span>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/19.webp" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Gowranga Illam</h5>
+                                    <span>Karthick Architect</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
+                    </a>
 
 
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/20.webp" style="width:100%; height: 450px;" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Residence</h5>
-                                <span>Vedha Kumaran Architect</span><br>
-                                <span></span>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/20.webp" style="width:100%; height: 450px;" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Residence</h5>
+                                    <span>Vedha Kumaran Architect</span><br>
+                                    <span></span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
+                    </a>
 
 
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/21.webp" style="width:100%; height:450px;" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Eden Garden</h5>
-                                <span>Sekkizhar Architect</span><br>
-                                <span>Trichy</span>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img">
+                                <img src="img/portfolio/mas/21.webp" style="width:100%; height:450px;" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Eden Garden</h5>
+                                    <span>Sekkizhar Architect</span><br>
+                                    <span>Trichy</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-</a>
+                    </a>
 
-                    <a href="project-view.php">
-                    <div class="items theaters three-column mt-50">
-                        <div class="item-img bg-img" style="height: 300px; width: 500px;">
-                            <img src="img/portfolio/mas/22.webp" style="width:100%;" class="gallery-image"  >
-                            <div class="info mt-10">
-                                <h5>Residence</h5>
-                                <span>Ar.K K.Karthick, ADS Architecture</span><br>
-                                <span>Perambalur</span>
+                    <a href="#">
+                        <div class="items theaters three-column mt-50">
+                            <div class="item-img bg-img" style="height: 300px; width: 500px;">
+                                <img src="img/portfolio/mas/22.webp" style="width:100%;" class="gallery-image">
+                                <div class="info mt-10">
+                                    <h5>Residence</h5>
+                                    <span>Ar.K K.Karthick, ADS Architecture</span><br>
+                                    <span>Perambalur</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
                     </a>
 
 
