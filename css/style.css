@@ -2137,10 +2137,10 @@ body {
 }
 
 .pages-header {
-  height: 75vh;
+  height: 50vh;
 }
 .pages-header .cont h1 {
-  font-size: 75px;
+  font-size: 65px;
   margin-bottom: 20px;
 }
 .pages-header .cont .path {
