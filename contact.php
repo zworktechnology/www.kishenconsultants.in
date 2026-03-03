@@ -67,24 +67,22 @@
                 </div>
             </div>
             <div class="col-lg-6 form">
-                <form method="post" action="mail.php" autocomplete="off">
-
+                <form id="contactForm" action="whatsapp.php" class="contact-page-form" method="POST" autocomplete="off">
                     <div class="controls">
-
                         <div class="form-group">
-                            <input id="form_name" type="text" name="name" placeholder="Name" required="required">
+                            <input id="form_name" type="text" name="name" placeholder="Name *" required="required">
                         </div>
 
                         <div class="form-group">
-                            <input id="form_email" type="email" name="email" placeholder="Email" required="required">
+                            <input id="form_email" type="email" name="email" placeholder="Email *" required="required">
                         </div>
 
                         <div class="form-group">
-                            <input id="form_email" type="text" name="mobile" placeholder="Mobile Number" required="required">
+                            <input id="form_mobile" type="text" name="mobile" placeholder="Mobile Number *" required="required">
                         </div>
 
                         <div class="form-group">
-                            <textarea id="form_message" name="message" placeholder="Message" rows="4" required="required"></textarea>
+                            <textarea id="form_message" name="message" placeholder="Message *" rows="4" required="required"></textarea>
                         </div>
                         <button type="submit" class="btn-curve btn-color"><span>Send Message</span></button>
                     </div>

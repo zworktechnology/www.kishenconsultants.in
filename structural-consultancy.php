@@ -107,6 +107,7 @@
                     <li class="pts">4. Commerical</li>
                     <li class="pts">5. Industrial</li>
                     <li class="pts">6. Storage</li>
+                    <li class="pts">7. Industrial & Export Oriented Facilities Design</li>
                 </ul>
 
                 <h4 style="margin-top: 40px;">Scope of Works - Structural :</h4>
